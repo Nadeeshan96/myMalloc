@@ -14,5 +14,6 @@ You must implement a function that is like malloc(). Call it MyMalloc(). Its sig
 MyMalloc() allocates memory only from the previously mentioned array of 25000 bytes.
 All the data structures that are required to manage the memory must also reside within the same array.
 
+In C programming language this is similar to Dynamic Memory Allocation using malloc(), calloc(), free() and realloc() functions.
 
 #LearningPurposeOnly
