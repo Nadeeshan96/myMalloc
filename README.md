@@ -1,6 +1,6 @@
 # myMalloc
 
-#Assignment - Operation Systems
+# Assignment - Operation Systems
 
 Simple Memory Allocation Simulation using Java
 
